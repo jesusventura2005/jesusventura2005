@@ -37,8 +37,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jesusventura2005/jesusventura2005/output/github-contribution-grid-snake.svg" />
-  
+
+  https://github.com/jesusventura2005/jesusventura2005/blob/output/github-contribution-grid-snake.gif
+    
   <br/><br/><br/>
 </div>
 
