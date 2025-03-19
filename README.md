@@ -39,7 +39,8 @@
   <br>
 
 
-![snake gif](https://github.com/jesusventura2005/jesusventura2005/blob/output/github-contribution-grid-snake.gif)   
+![snake gif](https://github.com/jesusventura2005/jesusventura2005/blob/output/github-snake-dark.svg)
+
 
 
   <br/><br/><br/>
